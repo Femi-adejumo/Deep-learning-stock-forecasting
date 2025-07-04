@@ -1,0 +1,12 @@
+yfinance
+ta
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+torch
+pytorch-forecasting
+darts
+streamlit
