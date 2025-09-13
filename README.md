@@ -48,6 +48,8 @@ pip install -r requirements.txt
 # Run Streamlit app
 streamlit run app.py
 
-## Live Demo
+## Live Demo  
+
 Check out the deployed Streamlit app here:  
-(https://deep-learning-stock-forecasting-hqhpe37os3krcvzjrm9tsa.streamlit.app/)
+[Stock Forecasting App](https://deep-learning-stock-forecasting-hqhpe37os3krcvzjrm9tsa.streamlit.app/)
+
