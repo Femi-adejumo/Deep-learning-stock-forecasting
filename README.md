@@ -6,13 +6,13 @@ This repository contains the full implementation of my final-year project:
 The project explores deep learning approaches (BiLSTM and Transformer) for predicting stock prices, with deployment via Streamlit for interactive forecasting.
 
 ---
-
 ## 📁 Project Structure
+
 stock-forecasting-project/
-├── data/ # Stock data (CSV) 
+├── data/ # Stock data (CSV)
 ├── notebooks/ # Jupyter notebooks for EDA & model development
 ├── models/ # Saved models (.h5, .pkl)
-│── app.py # Main Streamlit app
+├── app.py # Main Streamlit app
 ├── reports/ # Project report, screenshots
 ├── requirements.txt # Python dependencies
 └── README.md # Project overview
