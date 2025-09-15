@@ -50,6 +50,10 @@ streamlit run app.py
 
 ## Live Demo  
 
-Check out the deployed Streamlit app here:  
+Check out the deployed Streamlit app here:
+
 [Stock Forecasting App](https://deep-learning-stock-forecasting-hqhpe37os3krcvzjrm9tsa.streamlit.app/)
+
+[Google](https://google.com)
+
 
